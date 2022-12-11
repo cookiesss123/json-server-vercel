@@ -1,11 +1,28 @@
-{"users": [
-    
-  ],
-  "posts": [
-    { "id": 1, "title": "json-server22", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{
+  "users": [
+    {
+      "email": "dd@gmail.com",
+      "password": "$2a$10$OV.yoaPir8C49bTCULujOOryJ.K1TVxQosLhnLB774z/9u.agY1NO",
+      "nickName": "哈囉",
+      "id": 9
+    },
+    {
+      "email": "cookieSSS@gmail.com",
+      "password": "$2a$10$AcSlrUoP37m2wOXw23vkoupDS2gJOe5psZuS0iVk/DScPtygVNeOG",
+      "nickName": "cookie",
+      "id": 10
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$.ouwmaad.KjLUN7euu3igOnCdvpuenH1wAcFXDh.0ypoor2ORvkCG",
+      "nickName": "鴨鴨",
+      "id": 11
+    },
+    {
+      "email": "bb@gmail.com",
+      "password": "$2a$10$5lGewkiGHDiygZh5mCAkfuVOKRfN9sXZgbIyliD/KjZCAOUce1Y6C",
+      "nickName": "bb",
+      "id": 12
+    }
+  ]
 }
