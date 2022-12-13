@@ -23,318 +23,336 @@
       "password": "$2a$10$5lGewkiGHDiygZh5mCAkfuVOKRfN9sXZgbIyliD/KjZCAOUce1Y6C",
       "nickName": "bb",
       "id": 12
+    },
+    {
+      "email": "ee@gmail.com",
+      "password": "$2a$10$YaWW7sqM7AMWRm5X30TNtO4DNR0CyT10aOuFyarL3M5buc5PlqjYO",
+      "nickName": "ee",
+      "id": 13
+    },
+    {
+      "email": "yy@gmail.com",
+      "password": "$2a$10$2ctVZO6Uxl4XZRCxtr82s.VT0M/jTQrqMUhlczruFAoQadoSsD2Aa",
+      "nickName": "yy",
+      "id": 14
     }
   ],
-  "stores":[
+  "stores": [
     {
       "Id": 1,
       "Name": "自由冰品【白沙鄉】",
       "Description": "開業至今已有數年，不斷研發具有澎湖風味的各式冰品，例如：仙人掌冰、風茹草冰、海芙蓉冰、黑糖蘆薈冰、哈密瓜冰、花生冰等。澎湖仙人掌冰開業至今深受本地人喜愛，觀光客更聞名蜂踴而來，本店並有仙人掌原汁批發，歡迎喜愛冰品者，來店品嚐。",
       "Add": "澎湖縣白沙鄉通梁村39-1號",
-      "Region": "澎湖縣",
+      "Region": "澎湖",
       "Tel": "886-6-9931188",
       "Opentime": "星期日~星期一 08:30 - 18:00, 星期三~星期六 8:00 - 21:00",
       "Website": "http://bizph.com/freeice/",
-      "imgUrl":"https://disk.sharelife.tw/gallery/59274-65183/a601140420211816.jpg",
-      "socialMedia":{
-          "facebook":"https://www.facebook.com/people/%E8%87%AA%E7%94%B1%E5%86%B0%E5%93%81%E6%BE%8E%E6%B9%96%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%86%B0/100054405493910/"
+      "imgUrl": "https://disk.sharelife.tw/gallery/59274-65183/a601140420211816.jpg",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/people/%E8%87%AA%E7%94%B1%E5%86%B0%E5%93%81%E6%BE%8E%E6%B9%96%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%86%B0/100054405493910/"
       },
-      "equalPrice":25,
-      "products":[
-          {
-              "id":1,
-              "name":"仙人掌冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/t5G0MK.png",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":2,
-              "name":"風茹草冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/keigo1209/1327213038-858080214_n.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":3,
-              "name":"海芙蓉冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/keigo1209/1327213054-22443676_n.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":4,
-              "name":"黑糖蘆薈冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/keigo1209/1327213068-3310574107_n.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":5,
-              "name":"香檳蘆薈冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/keigo1209/1327213022-2749300749_n.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":6,
-              "name":"百香果冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/LbnaH2.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":7,
-              "name":"哈密瓜冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/Ehec3I.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":8,
-              "name":"芒果冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/nyh4ov.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":9,
-              "name":"草莓冰淇淋",
-              "imgUrl":"http://pic.pimg.tw/keigo1209/1327213154-2179207106_wn.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":10,
-              "name":"葡萄冰淇淋",
-              "imgUrl":"https://www.jfstore.com/images/prod_images/400lrg/icegrape.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":11,
-              "name":"鳳梨冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/meteresa/1500304011-1121948767_l.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":12,
-              "name":"南瓜冰淇淋",
-              "imgUrl":"https://pic.pimg.tw/keigo1209/1327213135-495301186_n.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":13,
-              "name":"冰花冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/4wCKSR.png",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":14,
-              "name":"芋頭冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/8U7Maj.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          },
-          {
-              "id":15,
-              "name":"花生冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/11/b9Zi4j.jpg",
-              "price":25,
-              "type":"綿綿冰"
-          }
+      "equalPrice": 25,
+      "products": [
+        {
+          "id": 1,
+          "name": "仙人掌冰淇淋",
+          "imgUrl": "https://i.imgur.com/KegSlcf.png",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 2,
+          "name": "風茹草冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213038-858080214_n.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 3,
+          "name": "海芙蓉冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213054-22443676_n.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 4,
+          "name": "黑糖蘆薈冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213068-3310574107_n.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 5,
+          "name": "香檳蘆薈冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213022-2749300749_n.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 6,
+          "name": "百香果冰淇淋",
+          "imgUrl": "https://i.imgur.com/drpwLue.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 7,
+          "name": "哈密瓜冰淇淋",
+          "imgUrl": "https://i.imgur.com/sDkUgmO.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 8,
+          "name": "芒果冰淇淋",
+          "imgUrl": "https://i.imgur.com/NL2VacK.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 9,
+          "name": "草莓冰淇淋",
+          "imgUrl": "http://pic.pimg.tw/keigo1209/1327213154-2179207106_wn.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 10,
+          "name": "葡萄冰淇淋",
+          "imgUrl": "https://www.jfstore.com/images/prod_images/400lrg/icegrape.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 11,
+          "name": "鳳梨冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/meteresa/1500304011-1121948767_l.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 12,
+          "name": "南瓜冰淇淋",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213135-495301186_n.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 13,
+          "name": "冰花冰淇淋",
+          "imgUrl": "https://i.imgur.com/NeeOcg3.png",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 14,
+          "name": "芋頭冰淇淋",
+          "imgUrl": "https://i.imgur.com/kqUrOAg.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 15,
+          "name": "花生冰淇淋",
+          "imgUrl": "https://i.imgur.com/oBOUHCN.jpg",
+          "price": 25,
+          "type": "綿綿冰"
+        }
       ],
-      "discount":["一球$25", "兩球$40", "三球$50", "換厚脆皮餅乾加$5"]
+      "discount": [
+        "一球$25",
+        "兩球$40",
+        "三球$50",
+        "換厚脆皮餅乾加$5"
+      ]
     },
     {
       "Id": 2,
       "Name": "可口冰城【西嶼鄉】",
       "Description": "澎湖可口冰城以有刺總統冰聞名，運用各式澎湖名特產天然野生植物如仙人掌，研發富含營養素之冰品，多家媒體報章雜誌報導，總統先生也來嚐鮮，另設澎湖名特產品展售。",
       "Add": "澎湖縣西嶼鄉大池村130號",
-      "Region": "澎湖縣",
+      "Region": "澎湖",
       "Tel": "886-6-9981145",
       "Opentime": "星期一~星期日 09:00~18:00",
       "Website": "http://bizph.com/069981145/",
-      "imgUrl":"https://penghu.fun-taiwan.com/Images/PlayItemPhotos/164779.jpg",
-      "socialMedia":{
-          "facebook":"https://www.facebook.com/luck069981145/"
+      "imgUrl": "https://penghu.fun-taiwan.com/Images/PlayItemPhotos/164779.jpg",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/luck069981145/"
       },
-      "equalPrice":100,
-      "products":[
-          {
-              "id":1,
-              "name":"原味仙人果冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/AGxSqK.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":2,
-              "name":"澎湖哈密瓜冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/4fMsgt.jpeg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":3,
-              "name":"仙人掌冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/7hZAEJ.png",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":4,
-              "name":"黑糖仙人果冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/TWc4OD.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":5,
-              "name":"嘉寶瓜冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/ndb6lT.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":6,
-              "name":"蘆薈冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/r0myLh.jpeg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":7,
-              "name":"醉香仙人果冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa0b/10690961/496063610_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":8,
-              "name":"澎湖土豆冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/bu6Yw3.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":9,
-              "name":"天人菊冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/PGu7ay.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":10,
-              "name":"仙人果花冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/4N8mdt.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":11,
-              "name":"海芙蓉醉梅冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/2FEbXR.png",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":12,
-              "name":"澎湖金瓜冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/WE8UBg.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":13,
-              "name":"青菜哇沙米冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/zwMflN.jpeg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":14,
-              "name":"楊梅冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/lMGgI5.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":15,
-              "name":"紫菜冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/7EQ1sT.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":16,
-              "name":"風茹冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/0CvkM4.png",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":17,
-              "name":"檸檬抹茶冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa6b/10690961/496067034_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":18,
-              "name":"草莓冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa9c/10690961/496067595_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":19,
-              "name":"巧克力冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa0a/10690961/496067705_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":20,
-              "name":"芋頭冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa68/10690961/496067799_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":21,
-              "name":"咖啡冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa1a/10690961/496066953_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":22,
-              "name":"玉米冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aa5b/10690961/496066762_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":23,
-              "name":"芒果冰淇淋",
-              "imgUrl":"https://f.share.photo.xuite.net/aggroport/1f4aac4/10690961/496066867_m.jpg",
-              "price":60,
-              "type":"綿綿冰"
-          },
-          {
-              "id":24,
-              "name":"丁香魚雪辣冰淇淋",
-              "imgUrl":"https://upload.cc/i1/2022/12/12/vtS1cX.png",
-              "price":60,
-              "type":"綿綿冰"
-          }
-  
+      "equalPrice": 100,
+      "products": [
+        {
+          "id": 1,
+          "name": "原味仙人果冰淇淋",
+          "imgUrl": "https://i.imgur.com/2rR46bJ.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 2,
+          "name": "澎湖哈密瓜冰淇淋",
+          "imgUrl": "https://i.imgur.com/PaVioWt.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 3,
+          "name": "仙人掌冰淇淋",
+          "imgUrl": "https://i.imgur.com/ccrSDTM.png",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 4,
+          "name": "黑糖仙人果冰淇淋",
+          "imgUrl": "https://i.imgur.com/dFnhptG.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 5,
+          "name": "嘉寶瓜冰淇淋",
+          "imgUrl": "https://i.imgur.com/wzbaCAU.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 6,
+          "name": "蘆薈冰淇淋",
+          "imgUrl": "https://i.imgur.com/pTNdSa7.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 7,
+          "name": "醉香仙人果冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa0b/10690961/496063610_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 8,
+          "name": "澎湖土豆冰淇淋",
+          "imgUrl": "https://i.imgur.com/iASgsOo.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 9,
+          "name": "天人菊冰淇淋",
+          "imgUrl": "https://i.imgur.com/UmJqAX6.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 10,
+          "name": "仙人果花冰淇淋",
+          "imgUrl": "https://i.imgur.com/Chi1uaH.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 11,
+          "name": "海芙蓉醉梅冰淇淋",
+          "imgUrl": "https://i.imgur.com/sKMqZ0D.png",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 12,
+          "name": "澎湖金瓜冰淇淋",
+          "imgUrl": "https://i.imgur.com/IJvq8ON.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 13,
+          "name": "青菜哇沙米冰淇淋",
+          "imgUrl": "https://i.imgur.com/beMYmh3.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 14,
+          "name": "楊梅冰淇淋",
+          "imgUrl": "https://i.imgur.com/c69h8VM.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 15,
+          "name": "紫菜冰淇淋",
+          "imgUrl": "https://i.imgur.com/x5wbx5f.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 16,
+          "name": "風茹冰淇淋",
+          "imgUrl": "https://i.imgur.com/PW639Se.png",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 17,
+          "name": "檸檬抹茶冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa6b/10690961/496067034_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 18,
+          "name": "草莓冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa9c/10690961/496067595_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 19,
+          "name": "巧克力冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa0a/10690961/496067705_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 20,
+          "name": "芋頭冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa68/10690961/496067799_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 21,
+          "name": "咖啡冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa1a/10690961/496066953_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 22,
+          "name": "玉米冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa5b/10690961/496066762_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 23,
+          "name": "芒果冰淇淋",
+          "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aac4/10690961/496066867_m.jpg",
+          "price": 60,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 24,
+          "name": "丁香魚雪辣冰淇淋",
+          "imgUrl": "https://i.imgur.com/J5IOKwo.png",
+          "price": 60,
+          "type": "綿綿冰"
+        }
       ],
-      "discount":["一份三球$60"]
+      "discount": [
+        "一份三球$60"
+      ]
     }
   ]
 }
