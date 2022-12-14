@@ -112,7 +112,7 @@
         {
           "id": 9,
           "name": "草莓冰淇淋",
-          "imgUrl": "http://pic.pimg.tw/keigo1209/1327213154-2179207106_wn.jpg",
+          "imgUrl": "https://pic.pimg.tw/keigo1209/1327213154-2179207106_wn.jpg",
           "price": 25,
           "type": "綿綿冰"
         },
@@ -179,7 +179,7 @@
       "socialMedia": {
         "facebook": "https://www.facebook.com/luck069981145/"
       },
-      "equalPrice": 100,
+      "equalPrice": 60,
       "products": [
         {
           "id": 1,
@@ -353,6 +353,213 @@
       "discount": [
         "一份三球$60"
       ]
+    },
+    {
+      "Id": 3,
+      "Name": "花蓮觀光糖廠冰品",
+      "Description": "來糖廠一定不能錯過的就是花糖冰品，有名的如紅豆牛奶冰及月見冰，皆是來糖廠必點的超熱賣冰品。每日新鮮現煮的大顆紅豆，加上自製的冰，讓遊客一吃成主顧，假日常見大排長龍的遊客等待購買，歡迎您來一同品嚐!若品嚐後意猶未盡，您也可以選購冰淇淋或冰棒宅配回家唷!!水源來自中央山胍的好水質煮沸後，加上糖廠生產的特級砂糖，已具備好吃的基本條件，難得的是尚有盡職的經營人員肯用心研發改良口味，使糖廠冰品特別香純誘人,特別推薦9號碗裝紅豆冰是明星冰品。",
+      "Add": "花蓮縣光復鄉大進村糖廠街19號",
+      "Region": "花蓮",
+      "Tel": "886-3-8703906",
+      "Opentime": "每日：08:00～20:00；暑假：08:00～21:00",
+      "Website": "https://www.taisugar.com.tw/resting/hualian/CP2.aspx?n=12096",
+      "imgUrl": "https://www.taisugar.com.tw/upload/RelPic/Attractions/99/636587113929191552.jpg",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/hualiensugarfactory"
+      },
+      "equalPrice": 50,
+      "products":[
+        {
+          "id": 1,
+          "name": "碗裝芥末冰淇淋",
+          "imgUrl": "https://ntufoody.tw/wp-content/uploads/2017/08/1503583205-8e2005149ff2813dff30d8594e66710d.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 2,
+          "name": "花糖冰棒(紅豆、芋仔、花生、木瓜、綠豆、糯米)",
+          "imgUrl": "https://i.imgur.com/V3m6MkT.jpg",
+          "price": 15,
+          "type": "冰棒"
+        },
+        {
+          "id": 3,
+          "name": "脆皮雪糕",
+          "imgUrl": "https://i.imgur.com/Dcw2q2C.jpg",
+          "price": 20,
+          "type": "冰棒"
+        },
+        {
+          "id": 4,
+          "name": "碗裝榴槤冰淇淋",
+          "imgUrl": "https://i.imgur.com/4fd29Bx.jpg",
+          "price": 55,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 5,
+          "name": "碗裝紅豆冰淇淋（香草+草莓+紅豆）",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105427_17.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 6,
+          "name": "清冰棒",
+          "imgUrl": "https://i1.wp.com/www.yatravel.tw/wp-content/uploads/2019/09/1079.jpg?resize=696%2C522&ssl=1",
+          "price": 10,
+          "type": "冰棒"
+        },
+        {
+          "id": 7,
+          "name": "碗裝紅豆鮮乳冰淇淋",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105424_56.jpg",
+          "price": 55,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 8,
+          "name": "脆餅椰奶冰淇淋",
+          "imgUrl": "https://g.udn.com.tw/upfiles/B_CH/chunchch/PSN_PHOTO/590/f_9720590_1.JPG",
+          "price": 55,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 9,
+          "name": "碗裝月明冰",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105435_39.jpg",
+          "price": 55,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 10,
+          "name": "碗裝夏威夷聖代",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105501_30.jpg",
+          "price": 45,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 11,
+          "name": "脆餅瑞香冰淇淋",
+          "imgUrl": "https://i0.wp.com/www.pepelife.com/pic/5/51d1367cbaca79ff81f48ff839319dc1.jpg?w=1500",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 12,
+          "name": "脆餅薄荷巧克力冰淇淋",
+          "imgUrl": "https://sslife.tw/wp-content/uploads/e3673bd5bc4527f4a12e9759c53203c2.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 13,
+          "name": "脆餅冰淇淋（香草+草莓）",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105508_97.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 14,
+          "name": "脆餅巧克力冰淇淋",
+          "imgUrl": "https://leafyeh.com/wp-content/uploads/flickr/6348336647_c8c75e1c20_o.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 15,
+          "name": "脆餅鮮乳冰淇淋",
+          "imgUrl": "https://i.imgur.com/JZjAkOG.jpg",
+          "price": 55,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 16,
+          "name": "脆餅香酥冰淇淋（鮮乳+花生）",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105431_20.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 17,
+          "name": "脆餅醉香冰淇淋（白蘭地酒冰淇淋）",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105455_38.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 18,
+          "name": " 脆餅芋仔冰淇淋",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105410_64.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 19,
+          "name": "脆餅花生冰淇淋",
+          "imgUrl": "https://sslife.tw/wp-content/uploads/af7e1b28c666bfb0c3d61acbda7476ee.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 20,
+          "name": "脆餅木瓜冰淇淋",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105457_40.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 21,
+          "name": "碗裝綠茶冰淇淋",
+          "imgUrl": "https://i.imgur.com/cHLX7pf.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 22,
+          "name": "脆餅芋香冰淇淋",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105521_58.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 23,
+          "name": "脆餅巧香冰淇淋",
+          "imgUrl": "https://i.imgur.com/S8CPIkR.png",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 24,
+          "name": "碗裝洛神花冰淇淋",
+          "imgUrl": "https://www.amanda326.com/wp-content/uploads/2019/11/%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E7%B3%96%E5%BB%A0-53.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 25,
+          "name": "脆餅薄荷風味冰淇淋",
+          "imgUrl": "https://i.imgur.com/fLvJQNf.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 26,
+          "name": "脆餅香草風味冰淇淋",
+          "imgUrl": "https://yoti.life/wp-content/uploads/20160427105518_9.jpg",
+          "price": 50,
+          "type": "綿綿冰"
+        },
+        {
+          "id": 27,
+          "name": "脆餅鮮奶芋頭冰淇淋",
+          "imgUrl": "https://i.imgur.com/AZovYLn.jpg",
+          "price": 55,
+          "type": "綿綿冰"
+        }
+      ],
+      "discount":"none"
     }
   ]
 }
